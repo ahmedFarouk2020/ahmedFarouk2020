@@ -1,5 +1,5 @@
 <h3 align="center"> Hi👋, I'm Ahmed </h3>
-<h3 align="center"> Interested in Embedded SW, OS, Backend and DL </h3>
+<h3 align="center"> Interested in Embedded SW, OS, Backend and ML </h3>
 <!--
 ## 🚀 Languages and Tools:
 # Programming Languages
