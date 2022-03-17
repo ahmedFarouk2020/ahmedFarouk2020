@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 > Senior systems and biomedical engineering student @ cairo university, Interested in embedded systems programming.
 > I have been developing **mainly** embedded applications and Firmware, using 8051, AVR and ARM-CORTEX processors.
 > I have also been developing web applications using Flask, html and css. dealing with databases, Object-oriented design and APIs.
-> I have also been developing desktop gui applications for applications using python-pyqt.
+> I have also been developing desktop gui applications using python-pyqt, tkinter and QT.
 > I have developed iot applications using esp8266.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedFarouk2020&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedFarouk2020" /> </p>
